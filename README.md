@@ -2,6 +2,18 @@
 
 A common trend or "rule of thumb" is that as your database system grows, becomes larger & more-complex, the level of database normalization you should be using increases. In this guide, we'll explain the most-straightforward levels of database normalization & use different sets of data at each level to help illustrate that point. 
 
+We'll take a "database" that is more like a JSON object...
+
+![SuperheroERD0NF](.\assets\root\SuperheroERD0NF.png)
+
+
+
+And turn it into a properly-structured database with relations & rules!
+
+![SuperheroERD0NF](.\assets\root\SuperheroERD3NF.png)
+
+
+
 
 
 ## What is database normalization?
