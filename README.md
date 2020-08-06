@@ -20,7 +20,9 @@ And turn it into a properly-structured database with relations & rules!
 
 Database normalization is a process to help you organize your data across tables, spreadsheets, and other rows-and-columns data management systems.
 
-Using this correctly can lead to improved speed, stability and ease-of-development for your databases in your project. However, database normalization can easily be taken too far or not taken far enough. This means it's important to know the different types of database normalization, how to use them, and when to use them. 
+While it can be applied to any data management system or database type, it's especially useful for relational databases such as those used by SQL. Applications built with frameworks like Ruby On Rails will benefit from you using the right level of database normalization - it can improve your app in some very important ways.
+
+Using database normalization correctly can lead to improved speed, stability and ease-of-development for your databases in your project. However, database normalization can easily be taken too far or not taken far enough, causing negative impacts on your application & database such as increased storage size and slower performance. This means it's important to know the different types of database normalization, how to use them, and when to use them. 
 
 It's also worth noting that each level of database normalization requires all criteria of the previous level of normalization to be met. So 3NF requires all the rules of 2NF to be followed, plus another rule. And 2NF requires all the rules of 1NF to be followed, plus another rule. And so on & so on.
 
