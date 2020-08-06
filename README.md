@@ -4,13 +4,13 @@ A common trend or "rule of thumb" is that as your database system grows, becomes
 
 We'll take a "database" that is more like a JSON object...
 
-![SuperheroERD0NF](.\assets\root\SuperheroERD0NF.png)
+![SuperheroERD0NF](./assets/root/SuperheroERD0NF.png)
 
 
 
 And turn it into a properly-structured database with relations & rules!
 
-![SuperheroERD0NF](.\assets\root\SuperheroERD3NF.png)
+![SuperheroERD0NF](./assets/root/SuperheroERD3NF.png)
 
 
 
